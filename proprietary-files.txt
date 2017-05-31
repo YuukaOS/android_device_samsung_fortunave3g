@@ -10,7 +10,6 @@ etc/Headset_cal.acdb
 etc/Speaker_cal.acdb
 
 # Camera
-etc/B05QL_s5k5e3yx_module_info.xml
 etc/H08QL_s5k4h5yb_module_info.xml
 lib/hw/camera.msm8916.so:lib/hw/camera.vendor.msm8916.so
 lib/libaec_algo_front.so
@@ -63,11 +62,8 @@ vendor/lib/libmmcamera_hdr_lib.so
 vendor/lib/libmmcamera_image_stab.so
 vendor/lib/libmmcamera_imglib.so
 vendor/lib/libmmcamera_lsi_s5k5e3yx_eeprom.so
-vendor/lib/libmmcamera_m24128s_eeprom.so
 vendor/lib/libmmcamera_rohm_brce064gwz_eeprom.so
 vendor/lib/libmmcamera_s5k4h5yb.so
-vendor/lib/libmmcamera_s5k4h5yb.so
-vendor/lib/libmmcamera_s5k5e3yx.so
 vendor/lib/libmmcamera_s5k5e3yx.so
 vendor/lib/libmmcamera_silicon_sr544_eeprom.so
 vendor/lib/libmmcamera_sunny_p12v01m_eeprom.so
