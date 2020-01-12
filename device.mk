@@ -1,5 +1,5 @@
 #Inherit from vendor
-$(call inherit-product-if-exists, vendor/samsung/fortunave3g/fortunave3g-vendor.mk)
+$(call inherit-product, vendor/samsung/fortunave3g/fortunave3g-vendor.mk)
 
 # Inherit from common
 $(call inherit-product, device/samsung/gprimelte-common/device-common.mk)
