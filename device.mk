@@ -2,7 +2,7 @@
 $(call inherit-product, vendor/samsung/fortunave3g/fortunave3g-vendor.mk)
 
 # Inherit from common
-$(call inherit-product, device/samsung/gprimelte-common/device-common.mk)
+$(call inherit-product, device/samsung/gprimelte-common/gprimelte-common.mk)
 
 LOCAL_PATH := device/samsung/fortunave3g
 
